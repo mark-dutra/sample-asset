@@ -3,11 +3,11 @@ kind: Component
 metadata:
   name: sample-asset
   title: Sample
+  description: This is a sandbox component to learn about catalog entries
+  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/sample-asset
 spec:
-  type: other
-  lifecycle: unknown
   type: service
   lifecycle: experimental
   owner: devsecops
