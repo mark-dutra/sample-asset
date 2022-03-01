@@ -1,0 +1,13 @@
+@@ -2,9 +2,10 @@ apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-asset
+  title: Sample
+  annotations:
+    github.com/project-slug: mark-dutra/sample-asset
+spec:
+  type: other
+  lifecycle: unknown
+  type: service
+  lifecycle: experimental
+  owner: devsecops
