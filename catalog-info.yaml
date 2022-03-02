@@ -16,3 +16,4 @@ spec:
   lifecycle: experimental
   owner: devsecops
   system: java
+  subcomponentOf: mark-demo
