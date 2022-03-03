@@ -11,7 +11,7 @@ metadata:
   annotations:
     github.com/project-slug: mark-dutra/sample-asset
 spec:
-  type: environment
+  type: library
   lifecycle: deprecated
   owner: devsecops
   system: java
