@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sample-asset
-  title: JRE-v1.8
-  description: Java Runtime Environment
+  title: JDBC-v4.2
+  description: Java Database Connectivity
   tags: 
     - java
     - linux
