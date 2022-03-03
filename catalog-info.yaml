@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: sample-asset
   title: JDBC-v4.2
-  description: Java Database Connectivity
+  description: Java Database Connectivity v4.2 is no longer in use.  Please use version 4.3.
   tags: 
     - java
     - linux
@@ -12,7 +12,7 @@ metadata:
     github.com/project-slug: mark-dutra/sample-asset
   links:
   - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/JDBC-v4.3
-    title: Next Version
+    title: Next Version - v4.3
 spec:
   type: library
   lifecycle: deprecated
