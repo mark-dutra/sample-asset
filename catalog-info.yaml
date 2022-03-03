@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sample-asset
-  title: JRE
+  title: JRE-v1.8
   description: Java Runtime Environment
   tags: 
     - java
