@@ -11,8 +11,8 @@ metadata:
   annotations:
     github.com/project-slug: mark-dutra/sample-asset
 spec:
-  type: service
-  lifecycle: experimental
+  type: environment
+  lifecycle: production
   owner: devsecops
   system: java
   subcomponentOf: mark-demo
