@@ -6,7 +6,8 @@ metadata:
   description: Java Database Connectivity v4.2 is no longer in use.  Please use version 4.3.
   tags: 
     - java
-    - linux
+    - db
+    - client
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/sample-asset
