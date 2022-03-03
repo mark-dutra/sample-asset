@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sample-asset
-  title: JDBC-v4.2a
+  title: JDBC-v4.2
   description: Java Database Connectivity
   tags: 
     - java
@@ -10,6 +10,9 @@ metadata:
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/sample-asset
+  links:
+  - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/JDBC-v4.3
+    title: Next Version
 spec:
   type: library
   lifecycle: deprecated
